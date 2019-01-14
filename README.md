@@ -25,7 +25,7 @@ To create regex for each card: I've used: http://gamon.webfactional.com/regexnum
 
 JUnits tests (run from android studio) :
 --------------------------------------------
-Location: test\java\com\example\card\cardapplication
-CardTypeSecurityLengthTest.java
-CardTypeTest.java
-CardValidateTest.java
+- CardTypeSecurityLengthTest.java
+- CardTypeTest.java
+- CardValidateTest.java
+
