@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Card Application</string>
+    <string name="valid">Valid</string>
+    <string name="invalid">Error</string>
+    <string name="submit">Submit</string>
+
+    <string name="security">CVV</string>
+    <string name="cvv">CVV</string>
+    <string name="cid">CID</string>
+    <string name="cvc">CVC</string>
+
+    <string name="expiration_mm_yy">Expiration MM/YY</string>
+    <string name="card_number">Card Number</string>
+
+    <string name="card_type">Card Type</string>
+
+    <string name="card_number_missing">Please complete card numbers</string>
+    <string name="card_exp_date_missing">Please complete exp date MM/YY</string>
+    <string name="card_security_missing">Please complete security numbers</string>
+    <string name="card_valid">Valid Card</string>
+    <string name="card_invalid">Invalid Card</string>
+
+</resources>
